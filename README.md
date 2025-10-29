@@ -17,13 +17,6 @@
 
 ---
 
-## ⚡ About
-
-This repo serves as:
-- A **knowledge base** for my solved CTF challenges  
-- A **portfolio** of my cybersecurity and problem-solving skills  
-- A way to **give back to the community** by sharing methodologies and insights  
-
 If you have any questions or would like to connect, feel free to reach out! 
 
 
